@@ -11,5 +11,18 @@
             "img/pnf_screen3.png"
         ],
         "ignore": false
+    },
+    {
+        "title": "SoundBytes",
+        "description": "An audio chat android app",
+        "details": "This is an android app, where you record audio clips, apply filters to it then send to friends. This was influenced a lot by snapchat. It was made by a team a four as part of a class project",
+        "github": "https://github.com/CS307-Team10/SoundBytes",
+        "iconImage": "img/sb_icon.png",
+        "media": [
+            "img/sb_screen1.png",
+            "img/sb_screen2.png",
+            "img/sb_screen3.png"
+        ],
+        "ignore": false
     }
 ]
