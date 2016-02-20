@@ -4,7 +4,7 @@
         "description": "A sprite based android game",
         "details": "This is a game based on the popular Disney cartoon Phineas and Ferb. I made it using Google App Inventor, back when I just started learning how to program. It currently has over 2 million downloads",
         "destinationLink": "https://play.google.com/store/apps/details?id=appinventor.ai_olumideawofeso.Phineas_and_ferb",
-        "iconImage": "/img/pnf_icon.png",
+        "iconImage": "img/pnf_icon.png",
         "media": [
             "img/pnf_screen1.png",
             "img/pnf_screen2.png",
